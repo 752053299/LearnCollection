@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="GroupLayout">
+        <attr name="dividerPadding" format="dimension" />
+        <attr name="dividerHeight" format="dimension" />
+        <attr name="dividerColor" format="color" />
+        <attr name="itemSelector" format="reference" />
+    </declare-styleable>
+</resources>
