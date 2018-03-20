@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CommonGroupLayout">
+        <item name="dividerHeight">0.5dp</item>
+        <item name="dividerColor">@color/c8</item>
+        <item name="itemSelector">@drawable/grouplayout_item_bg_selector</item>
+        <item name="dividerPadding">@dimen/device_set_padding</item>
+        <item name="android:background">@android:color/white</item>
+    </style>
+
+
+</resources>

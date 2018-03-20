@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">LearnCollection</string>
+
+    <!--登陆-->
+    <string name="logining">正在登录</string>
+    <string name="login_success">登录成功</string>
+    <string name="login_failed">登录失败</string>
+    <string name="fill_information">请补全用户名或密码</string>
+    <string name="login_info">当前没有绑定摄像头</string>
+
+    <string name="label_title_user">user</string>
+
+    <!--monitory strings-->
+    <string name="monitor_top_title_middle">设备管理</string>
+    <string name="monitor_top_title_left">返回</string>
+    <string name="monitor_table_title_list">数据监控</string>
+    <string name="monitor_table_title_alarm">报警监控</string>
+    <string name="monitor_table_title_base_info">基本信息</string>
+    <string name="monitor_table_title_video">视频控制</string>
+    <string name="toast_video_notice">当前网关没有绑定摄像头</string>
+    <string name="toast_error_monitor">获取监控点列表出错</string>
+
+
+    <!--设备设置-->
+    <string name="ds_nick_name">盒子别名</string>
+    <string name="ds_share_name">分享自</string>
+    <string name="ds_connect_name">连接设备</string>
+    <string name="ds_sys_setting">系统设置</string>
+    <string name="ds_serial_num">产品序列号</string>
+    <string name="ds_net_mode">联网方式</string>
+    <string name="ds_state">状态</string>
+    <string name="ds_groups">所属分组</string>
+    <string name="ds_remarks">备注</string>
+
+
+
+</resources>

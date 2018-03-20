@@ -6,4 +6,12 @@
         <attr name="dividerColor" format="color" />
         <attr name="itemSelector" format="reference" />
     </declare-styleable>
+
+    <declare-styleable name="SimpleToobar">
+        <attr name="title_text_color" format="color"/>
+        <attr name="title_bg" format="color"/>
+        <attr name="title_text" format="string"/>
+        <attr name="left_icon" format="reference"/>
+        <attr name="left_text" format="string"/>
+    </declare-styleable>
 </resources>
